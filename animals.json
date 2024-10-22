@@ -1,9 +1,11 @@
 {
    "shark": [ 
       {
-         "image1": "https://storage.googleapis.com/fetching-news/fetching-shark-image1.webp", 
-         "image2": "https://storage.googleapis.com/fetching-news/fetching-shark-image2.webp", 
-         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32.", 
+         "imgUrl1": "https://storage.googleapis.com/fetching-news/fetching-shark-image1.webp", 
+         "imgAlt1": "A shark at rest in the water", 
+         "imgUrl2": "https://storage.googleapis.com/fetching-news/fetching-shark-image2.webp", 
+         "imgAlt2": "A shark looking out of the water",  
+         "interestingFact": "Sharks have been around for over 400 million years, making them older than dinosaurs. They have survived five mass extinction events, adapting over time to various environmental changes. This incredible resilience has led to the evolution of over 500 species of sharks today!", 
          "news": [
             {
                "title": "Shark Title 1", 
@@ -49,10 +51,12 @@
       }
    ], 
    "tiger": [ 
-      {
-         "image1": "https://storage.googleapis.com/fetching-news/fetching-tiger-image1.webp", 
-         "image2": "https://storage.googleapis.com/fetching-news/fetching-tiger-image2.webp", 
-         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32.", 
+      { 
+         "imgUrl1": "https://storage.googleapis.com/fetching-news/fetching-tiger-image1.webp", 
+         "imgAlt1": "A tiger face close up", 
+         "imgUrl2": "https://storage.googleapis.com/fetching-news/fetching-tiger-image2.webp", 
+         "imgAlt2": "A tiger running in the snow",  
+         "interestingFact": "Tigers are the largest cat species in the world and have unique striped patterns, much like human fingerprints. No two tigers have the same pattern of stripes, which helps them camouflage in their natural habitat. Additionally, tigers are excellent swimmers and often take to the water to cool off or hunt for prey!", 
          "news": [
             {
                "title": "Tiger Title 1", 
